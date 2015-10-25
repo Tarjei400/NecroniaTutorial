@@ -1,2 +1,3 @@
 This is text we are going to collaborate on.
+
 I guess we will have a conflict here.
